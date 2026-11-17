@@ -9,6 +9,7 @@ import Gallery from "../components/Gallery";
 import ContactUs from "../components/ContactUs";
 import Footer from "../components/Footer";
 import FloatingWhatsApp from "../components/FloatingWhatsApp";
+import MobileBottomBar from "../components/MobileBottomBar";
 
 export default function Home() {
   return (
@@ -42,6 +43,9 @@ export default function Home() {
 
       {/* Global Floating WhatsApp Widget */}
       <FloatingWhatsApp />
+
+      {/* Mobile Sticky Quick Action Bar */}
+      <MobileBottomBar />
     </main>
   );
 }

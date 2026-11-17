@@ -14,7 +14,7 @@ export default function Footer() {
   ];
 
   return (
-    <footer className="bg-brand-blue-950 text-white pt-16 pb-8 border-t border-blue-900 relative">
+    <footer className="bg-brand-blue-950 text-white pt-14 sm:pt-16 pb-24 lg:pb-12 border-t border-blue-900 relative">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-12 gap-10 pb-12 border-b border-blue-900/80">
           {/* Column 1: Company Profile (Col 4) */}
