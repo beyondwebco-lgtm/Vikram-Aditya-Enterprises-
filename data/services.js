@@ -101,7 +101,7 @@ export const servicesData = [
     shortDescription: "Protect balconies and open spaces from monkey entry.",
     fullDescription:
       "Living near green belts or areas with high monkey activity? Our monkey protection nets use heavy-duty thick gauge twisted twine and reinforced metallic borders that monkeys cannot bite, rip, or shake loose, keeping your home safe and private.",
-    image: "https://images.unsplash.com/photo-1540573133985-87b6da6d54a9?auto=format&fit=crop&w=800&q=80",
+    image: "/images/monkey-safety-nets.jpg",
     features: [
       "Extra-thick wire-core reinforced netting",
       "Bite-resistant and tear-proof construction",
