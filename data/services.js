@@ -5,7 +5,7 @@ export const servicesData = [
     shortDescription: "Protect balconies and open spaces from accidental falls.",
     fullDescription:
       "Our balcony safety nets are engineered to provide maximum security for high-rise apartments, independent houses, and villas. Made of high-tensile UV-stabilized nylon and HDPE fibers, they safeguard family members from hazardous falls while preserving your panoramic outdoor view and cross-ventilation.",
-    image: "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=800&q=80",
+    image: "/images/balcony-safety-nets.jpg",
     features: [
       "High load-bearing capacity (up to 300+ kg)",
       "100% UV-stabilized & weatherproof",

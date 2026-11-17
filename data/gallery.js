@@ -16,7 +16,7 @@ export const galleryItems = [
     categoryLabel: "Balcony Safety Nets",
     location: "OMR, Chennai",
     description: "Multi-story apartment balcony safety net fitting with tight corner anchoring and UV-treated nylon twine.",
-    image: "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1000&q=80",
+    image: "/images/balcony-safety-nets.jpg",
   },
   {
     id: 2,
