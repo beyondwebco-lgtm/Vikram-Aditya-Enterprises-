@@ -52,7 +52,7 @@ export const galleryItems = [
     categoryLabel: "Children Safety Nets",
     location: "Sholinganallur, Chennai",
     description: "Triple-knot high-tensile netting designed specifically for families with infants and energetic young children.",
-    image: "https://images.unsplash.com/photo-1502005229762-ee1b2da97ba4?auto=format&fit=crop&w=1000&q=80",
+    image: "/images/children-safety-nets.jpg",
   },
   {
     id: 6,

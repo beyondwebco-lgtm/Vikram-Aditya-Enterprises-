@@ -53,7 +53,7 @@ export const servicesData = [
     shortDescription: "Provide additional protection for children in balconies and windows.",
     fullDescription:
       "Specially designed for families with active toddlers and growing kids. Our child safety nets feature tighter mesh spacing, reinforced border ropes, and triple-knotted high-strength netting to create a 100% fail-safe environment for curious young minds.",
-    image: "https://images.unsplash.com/photo-1502005229762-ee1b2da97ba4?auto=format&fit=crop&w=800&q=80",
+    image: "/images/children-safety-nets.jpg",
     features: [
       "Child-proof tight knotting & safe tension",
       "Tested for impact resistance",
