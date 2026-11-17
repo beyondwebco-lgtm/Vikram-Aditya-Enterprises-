@@ -37,7 +37,7 @@ export const servicesData = [
     shortDescription: "Prevent birds from entering balconies and unwanted areas.",
     fullDescription:
       "Keep your balconies, AC compressor units, utility areas, and windows clean and hygienic. Our bird exclusion nets effectively prevent pigeons, crows, and sparrows from nesting and littering, without harming the birds or blocking light and breeze.",
-    image: "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=800&q=80",
+    image: "/images/pigeon-bird-safety-nets.jpg",
     features: [
       "Humane bird deterrence without injury",
       "Protects against bird droppings and infections",

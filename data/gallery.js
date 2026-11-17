@@ -43,7 +43,7 @@ export const galleryItems = [
     categoryLabel: "Pigeon & Bird Nets",
     location: "Medavakkam, Chennai",
     description: "Zero-visibility bird net barrier preventing pigeon infestation and droppings on private balcony and AC units.",
-    image: "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=1000&q=80",
+    image: "/images/pigeon-bird-safety-nets.jpg",
   },
   {
     id: 5,
