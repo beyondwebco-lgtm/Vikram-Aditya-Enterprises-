@@ -88,6 +88,6 @@ export const galleryItems = [
     categoryLabel: "Pigeon & Bird Nets",
     location: "Thoraipakkam, Chennai",
     description: "Full duct area netting for a gated community preventing pigeon roosting and foul odors.",
-    image: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1000&q=80",
+    image: "/images/duct-area-safety-nets.webp",
   },
 ];

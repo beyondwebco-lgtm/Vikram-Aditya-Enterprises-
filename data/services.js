@@ -85,7 +85,7 @@ export const servicesData = [
     shortDescription: "Secure open duct areas with durable protective nets.",
     fullDescription:
       "Open plumbing, drainage, and electrical duct shafts in apartments are breeding grounds for pigeons and hazard zones for falling items or technicians. We seal high-rise duct shafts with reinforced, heavy-duty netting to maintain cleanliness and safety.",
-    image: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=800&q=80",
+    image: "/images/duct-area-safety-nets.webp",
     features: [
       "Covers multi-floor duct openings seamlessly",
       "Stops pigeon nesting & foul odors",
