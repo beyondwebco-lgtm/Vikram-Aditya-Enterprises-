@@ -34,7 +34,7 @@ export const galleryItems = [
     categoryLabel: "Invisible Grills",
     location: "Velachery, Chennai",
     description: "Flush-mounted invisible safety grills for French windows, providing safety without compromising room aesthetics.",
-    image: "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1000&q=80",
+    image: "/images/invisible-grills.jpg",
   },
   {
     id: 4,

@@ -21,7 +21,7 @@ export const servicesData = [
     shortDescription: "Modern and elegant safety solutions for balconies and windows.",
     fullDescription:
       "Upgrade to modern safety aesthetics with our ultra-strong invisible grills. Crafted with high-grade marine 316 stainless steel cables encased in clear nylon membranes, they offer uncompromised security without obstructing your breathtaking sky and garden views.",
-    image: "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=800&q=80",
+    image: "/images/invisible-grills.jpg",
     features: [
       "Grade 316 marine stainless steel wires",
       "Unobstructed panoramic visibility",
