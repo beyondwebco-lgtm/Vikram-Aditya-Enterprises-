@@ -117,7 +117,7 @@ export const servicesData = [
     shortDescription: "Keep pets safe while allowing them to enjoy fresh air.",
     fullDescription:
       "Give your feline and canine companions the freedom to enjoy balcony breezes, sunshine, and bird watching without the nightmare of accidental slips or jumps. Our pet nets are bite-resistant, claw-proof, and completely harmless to animal paws.",
-    image: "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?auto=format&fit=crop&w=800&q=80",
+    image: "/images/cat-pet-safety-nets.jpg",
     features: [
       "Claw-proof and chew-resistant mesh",
       "Allows pets full balcony enjoyment safely",
