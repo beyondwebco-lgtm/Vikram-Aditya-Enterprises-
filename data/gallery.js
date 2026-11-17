@@ -61,7 +61,7 @@ export const galleryItems = [
     categoryLabel: "Building Covering Nets",
     location: "Guindy Industrial Area, Chennai",
     description: "High-density green protective mesh wrapped across an under-construction commercial facade to contain dust and falling debris.",
-    image: "https://images.unsplash.com/photo-1541888946425-d0fbb186f5f7?auto=format&fit=crop&w=1000&q=80",
+    image: "/images/building-covering-nets.webp",
   },
   {
     id: 7,

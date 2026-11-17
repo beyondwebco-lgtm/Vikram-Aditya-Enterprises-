@@ -69,7 +69,7 @@ export const servicesData = [
     shortDescription: "Protective netting solutions for construction buildings.",
     fullDescription:
       "Heavy-duty industrial and construction debris safety nets engineered for high-rise commercial structures and renovating residential towers. Prevents dropped tools, loose cement debris, and materials from causing accidents at lower levels and streets.",
-    image: "https://images.unsplash.com/photo-1541888946425-d0fbb186f5f7?auto=format&fit=crop&w=800&q=80",
+    image: "/images/building-covering-nets.webp",
     features: [
       "Heavy-gauge industrial grade HDPE",
       "Debris retention & dust reduction",
