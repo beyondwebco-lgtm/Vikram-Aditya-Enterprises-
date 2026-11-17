@@ -133,7 +133,7 @@ export const servicesData = [
     shortDescription: "Durable net installations for box cricket grounds.",
     fullDescription:
       "Turn open grounds, clubhouses, schools, or rooftops into professional box cricket turf arenas. We supply and install certified high-impact cricket pitch and perimeter enclosure netting capable of absorbing high-velocity ball strikes day in and day out.",
-    image: "https://images.unsplash.com/photo-1531415074868-036b107e775a?auto=format&fit=crop&w=800&q=80",
+    image: "/images/box-cricket-nets.jpg",
     features: [
       "High impact shock absorption netting",
       "Roof, sidewalls & partition installation",

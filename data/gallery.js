@@ -70,7 +70,7 @@ export const galleryItems = [
     categoryLabel: "Box Cricket Nets",
     location: "Tambaram, Chennai",
     description: "Heavy-duty 40-foot box cricket turf roof and perimeter net structure with impact absorption.",
-    image: "https://images.unsplash.com/photo-1531415074868-036b107e775a?auto=format&fit=crop&w=1000&q=80",
+    image: "/images/box-cricket-nets.jpg",
   },
   {
     id: 8,
